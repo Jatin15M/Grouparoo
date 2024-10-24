@@ -1,0 +1,15 @@
+{
+  "class": "App",
+  "id": "snowflakedata",
+  "name": "snowflakeData",
+  "type": "snowflake-keypair",
+  "options": {
+    "schema": "DS_ZUORA_REVERSE_ETL",
+    "account": "MSA13505.us-east-1",
+    "database": "LIVEPERSONREPORTING",
+    "private_key": "-----BEGIN ENCRYPTED PRIVATE KEY-----\\nMIIFNTBfBgkqhkiG9w0BBQ0wUjAxBgkqhkiG9w0BBQwwJAQQFNg6BeaBnS2zUTSu\\nQbntqAICCAAwDAYIKoZIhvcNAgkFADAdBglghkgBZQMEAQIEEDeftF3ZRfLVbF+f\\nEDwwrL0EggTQkiaOzKCt/gcoWD6mpDGwjpcwS71I1EXZrk6VjpsvuT8WHCObd7LG\\nnuIexWBIS/1EBUzi9btnPWHn/WUs8gUMUT/Dgkk5sVp3TUcrgSjfReWZLcV8CuL8\\nr8xdeOoUXzGIHUi6GCMcocmnsJs+iFs/CfwZkVyhI8AOv7U+zlwATCEFrN/AK+x3\\ngiX3MEr834WL1WPnv9w9w+roS63x+L3/BhG1fO0zXc3a9uTLzhseVAq76Ws0BxD0\\nzV55AAd+9+TFe/zPUtEqj9eDQsn3acNDTyZf2N6UUNyj0+VvYptUqJ+dvChqrL5R\\n4CFec9n3KAnlOmcvAaQtcgzlxVjb8EZuA/F8nfH9tK7mgr+unYTzoV/lr3Wwt2lo\\nv89f3BmWxNZtYMC/d3TVDLvSfwJJDDZLVX0zIEbZPdClRmM9uFGwxU1DaWRujFHn\\nOca1zEoO8vBaM2nn8QVLVyacp1jBQCaSRUocffVNeXNNzryjlfc+LezTKkdT6K7Q\\nFvRxtHEaO2vOKP7dCE4xiffoKOIHh4akOn4GrLc6LTk6lHrXi8QHzYxQu7I5kQvU\\nCSKtiQjUwt7wAROXEt4s6Q7m5zLjqSPTDzhUQf+dCXKxhO3JFdZeToGAF70nd1Lt\\nrO0nUUZkIotAi+NVF/RCUr/NoDJhDMaUkEA/kEEk/Djga7ynyMDsSsrZms3/81fU\\n530/yEtlCaaXAWh46DFe8HCE4C4XgWRaULPvBHFKZtEvDbUi840xNDsdycJOvcoV\\nEFzrAdOy63cDwivxrEx1EioWUs8UPqO0LT2VkuECl0GI49zJVDqh5JCcvVjn7qHp\\ngUerCfSYwH8zpWZjF/m9kMwbCbuuWemN4XJL2WqwrxM7iCK3mbynaRdwRqJfnQz+\\nzNZI3UXA0QdOoPe4Vj6ofTuPV6sDSwRzsMW7tNtLuVCm37J++bmN7W+p5lAV3JQU\\nrKCv604H5L5JtaC/DKCuUorM+aBC0Zvfv4zLanVN+SVFrsu7QJt5TNQXj224ebwB\\nGGbIiyiVnNJTkkl+dugVdCPc37Pc9n9t+7zgkJL2GVMYHSGJyVQLDnxzRDV3bP8V\\n0wovWtEdx8vy/fM2HTL9Cyb0wSbTsozkdaVNMQV+GKY+MFIMLhbxy7WnsDqXQaiT\\nkKk0HRwqh9mavTAJSOOEbAt9jcvDZgIva8k7fJZ/RhlDACCpQVNBjt401qVL4Fwb\\nHGiSSyKL4ZzbJXSK4TxsonbnbggdoKZjRMN7RMV5P9Yw89wIY0lJMOlGE7NbDPGl\\nnAkaa7TGz6pB6XsfOGM4nodFYeCcrzDrpAn7VcXbPMTcokYifxH7nOA618OD1r1i\\nRG7UDpPFtoWXJOEWziU7YYXPisYdqdBd8LNIxzCc9/y0ad8w5gfAx5b/HkiZUQou\\nlQIePv7LrNiTMeO7dHEp5xCEUFScYX036IC6ro9gwdlpr7+q1bdtsQ2YLm9NvhHx\\nMEuZL1at2uniLjzjaX81fKVEGaGzEHYRN0+7g1G0txt/5OThbL94N3OHKwWO/I2D\\n68xe0AjMwuzmyiEfz8dX44GnqUJEiDf1Qd8CjtcEYOhGWNXiYIJiuK2MJ4BVYBXe\\n3PW8ogtp8P0hyIeiv8yh+ZXkqtcd0DYlvPR21tSm4iultoR7tKsovso=\\n-----END ENCRYPTED PRIVATE KEY-----\\n",
+    "private_key_passphrase": "CyvmY_hbNzor_Y43UM*Phsga2",
+    "username": "YASHTECH_APP",
+    "warehouse": "ETL"
+  }
+}

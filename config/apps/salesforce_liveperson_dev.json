@@ -1,0 +1,12 @@
+{
+  "class": "App",
+  "id": "salesforce_liveperson_dev",
+  "name": "salesforce liveperson dev",
+  "type": "salesforce",
+  "options": {
+    "salesforceDomain": "https://liveperson--yash.sandbox.my.salesforce.com",
+    "password": "Solution@123",
+    "securityToken": "52qN7Vjs4XgK8B8nViwWQOG4",
+    "username": "jatin.mourya@yash.com.lpdev"
+  }
+}

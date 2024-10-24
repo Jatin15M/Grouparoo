@@ -1,0 +1,14 @@
+{
+  "class": "Property",
+  "id": "enddate",
+  "type": "date",
+  "key": "enddate",
+  "sourceId": "snowflake_usage",
+  "unique": false,
+  "isArray": false,
+  "options": {
+    "aggregationMethod": "exact",
+    "column": "ENDDATE"
+  },
+  "filters": []
+}

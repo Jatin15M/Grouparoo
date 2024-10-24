@@ -1,0 +1,14 @@
+{
+  "class": "Property",
+  "id": "chargenumber",
+  "type": "string",
+  "key": "chargenumber",
+  "sourceId": "snowflake_usage",
+  "unique": false,
+  "isArray": false,
+  "options": {
+    "aggregationMethod": "exact",
+    "column": "CHARGENUMBER"
+  },
+  "filters": []
+}

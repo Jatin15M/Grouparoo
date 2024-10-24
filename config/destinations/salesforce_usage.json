@@ -1,0 +1,35 @@
+{
+  "class": "Destination",
+  "id": "salesforce_usage",
+  "modelId": "usage_data",
+  "name": "Salesforce usage",
+  "type": "salesforce-export-objects",
+  "appId": "salesforce_liveperson_dev",
+  "collection": "model",
+  "syncMode": "additive",
+  "options": {
+    "groupNameField": "Name__c",
+    "groupObject": "GrouparooGroup__c",
+    "membershipGroupField": "Grouparoo_Group__c",
+    "membershipObject": "Grouparoo_Group_Member__c",
+    "membershipRecordField": "Usage_Data__c",
+    "recordMatchField": "UsageId__c",
+    "recordObject": "Usage_Data__c",
+    "recordReferenceField": "Grouparoo_Group__c",
+    "recordReferenceMatchField": "Name__c",
+    "recordReferenceObject": "GrouparooGroup__c"
+  },
+  "mapping": {
+    "Account_Number__c": "accountnumber",
+    "Charge_Id__c": "chargeid",
+    "Charge_Number__c": "chargenumber",
+    "End_Date__c": "enddate",
+    "GrouparooGroup__c.Name__c": "parentaccountnumber",
+    "Load_Usage__c": "loadusage",
+    "Product__c": "product",
+    "Quantity__c": "quantity",
+    "Start_Date__c": "startdate",
+    "UsageId__c": "usage_data_id"
+  },
+  "destinationGroupMemberships": {}
+}

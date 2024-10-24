@@ -1,0 +1,14 @@
+{
+  "class": "Property",
+  "id": "product",
+  "type": "string",
+  "key": "product",
+  "sourceId": "snowflake_usage",
+  "unique": false,
+  "isArray": false,
+  "options": {
+    "aggregationMethod": "exact",
+    "column": "PRODUCT"
+  },
+  "filters": []
+}

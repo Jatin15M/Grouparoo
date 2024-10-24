@@ -1,0 +1,31 @@
+[
+  {
+    "class": "Source",
+    "id": "snowflake_usage",
+    "modelId": "usage_data",
+    "name": "Snowflake Usage",
+    "type": "snowflake-import-table",
+    "appId": "snowflakedata",
+    "options": {
+      "table": "RETL_ZUORA_DAILY_UPLOAD_USAGE_RECORDS"
+    },
+    "mapping": {
+      "ID": "usage_data_id"
+    }
+  },
+  {
+    "class": "Schedule",
+    "id": "snowflake_usage_schedule",
+    "name": "Snowflake Usage schedule",
+    "sourceId": "snowflake_usage",
+    "incremental": true,
+    "recurring": true,
+    "recurringFrequency": 43200000,
+    "confirmRecords": false,
+    "refreshEnabled": true,
+    "options": {
+      "column": "STARTDATE"
+    },
+    "filters": []
+  }
+]

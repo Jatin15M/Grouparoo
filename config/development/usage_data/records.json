@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rec_f852ab83-23d2-4200-b37a-084f0654dd3b",
+    "class": "Record",
+    "modelId": "usage_data",
+    "properties": {
+      "usage_data_id": ["aeeb0753-314e-4500-b502-2ddbe0029a75"]
+    }
+  },
+  {
+    "id": "rec_be413f24-8d88-4e66-a7d3-a1d8739a5535",
+    "class": "Record",
+    "modelId": "usage_data",
+    "properties": {
+      "usage_data_id": ["8eb9b35a-fd43-4236-b11c-01a2bf3801db"]
+    }
+  },
+  {
+    "id": "rec_c9033d51-579a-4430-8e17-3c08b3fba56b",
+    "class": "Record",
+    "modelId": "usage_data",
+    "properties": {
+      "usage_data_id": ["2482c46b-dab2-4906-bba6-9530e081575e"]
+    }
+  }
+]
